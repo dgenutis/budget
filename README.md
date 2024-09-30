@@ -1,1 +1,1 @@
-dgenutis-budget.netlify.app
+http://wwww.dgenutis-budget.netlify.app
